@@ -8,10 +8,11 @@
 
 ## 문제
 ### 6. Brute Force
-* PICNIC
-* BOARDCOVER
-* CLOCKSYNC
+1. PICNIC
+2. BOARDCOVER
+3. CLOCKSYNC
 
 ### 7. Divide & Conquer
-* QUADTREE
-* FENCE
+1. QUADTREE
+2. FENCE
+3. FANMEETING
